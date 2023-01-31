@@ -1,2 +1,2 @@
-My first edited README file
+Coding is fun
  
