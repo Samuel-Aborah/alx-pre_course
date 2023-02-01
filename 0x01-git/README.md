@@ -1,2 +1,1 @@
-Coding is fun
- 
+information
